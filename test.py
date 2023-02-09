@@ -1,1 +1,1 @@
-s is to test devops course
+is to test devops course
